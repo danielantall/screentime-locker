@@ -3,7 +3,7 @@
 Set limits you can't circumvent.
 Sets a macOS Screen Time passcode **you can't remember**.
 
-Our phones can be addictive. Setting up screen time is great to set limits on our phone usage, but constantly pressing "Remind me in 15 minutes" is just unproductive. Screetime-locker makes it a extremely long process to reset your passcode.
+Our phones can be addictive. Setting up screen time is great to set limits on our phone usage, but constantly pressing "Remind me in 15 minutes" is unproductive. Screetime-locker makes it a extremely long process to reset your passcode, making it easier for you to lock-in.
 
 ![demo](./demo.gif)
 
